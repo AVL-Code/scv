@@ -1,5 +1,7 @@
 # SCV (Sistema de Confirmação de Viagens)
 
+[![CI](https://github.com/AVL-Code/scv/actions/workflows/ci.yml/badge.svg)](https://github.com/AVL-Code/scv/actions/workflows/ci.yml)
+
 
 ## Objetivo do App
 O SCV é um aplicativo Android desenvolvido para motoristas de transporte escolar, fretamento e pequenas empresas de transporte. O objetivo principal é **automatizar o envio diário de mensagens e enquetes de confirmação de presença em grupos do WhatsApp**. 
