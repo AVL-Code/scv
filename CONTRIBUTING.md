@@ -8,7 +8,7 @@ Obrigado por contribuir com o nosso projeto! Para manter o repositório organiza
 
 ## Convenção de Commits
 
-Utilizamos um padrão de commits semânticos incluindo o ID da tarefa. A mensagem do commit **não deve conter acentos** e deve ser toda em **minúsculo**.
+Utilizamos um padrão de commits semânticos incluindo o ID da tarefa. A mensagem do commit deve ser escrita em **inglês**, **não deve conter acentos** e deve ser toda em **minúsculo**.
 
 **Formato:**
 `<type>(<task-id>): <description>`
@@ -21,17 +21,17 @@ Utilizamos um padrão de commits semânticos incluindo o ID da tarefa. A mensage
 - `chore`: Tarefas de build, configuração, dependências, etc.
 
 **Exemplo de Commit:**
-`feat(SCV-10): implementa crud de grupos`
+`feat(SCV-10): implement group crud`
 
 ## Nomenclatura de Branches
 
-O nome da branch deve identificar facilmente de qual tarefa do Jira ela se originou.
+O nome da branch deve identificar facilmente de qual tarefa do Jira ela se originou e deve ser escrito em **inglês**.
 
 **Formato:**
 `<TASK-ID>-<TAG>-<description>`
 
 **Exemplo de Branch:**
-`SCV-10-B-CRUD-Grupo`
+`SCV-10-B-CRUD-Group`
 
 ## Processo de Pull Request
 1. Crie sua branch a partir da `main` seguindo a nomenclatura exigida.
